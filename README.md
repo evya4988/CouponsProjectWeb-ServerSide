@@ -1,5 +1,5 @@
 # Coupon Management System
-Full-Stack Project Based in Spring & React
+Full-Stack Project Based on Spring & React
 
 Coupon Management System: Final project by Evyatar Hale.
 
