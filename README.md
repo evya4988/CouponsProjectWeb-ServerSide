@@ -34,7 +34,7 @@ Spring Data JPA queries.
   have any BL. In the controller layer, there is a login controller that constitutes the first stage 
   when connecting as an Admin, Customer and Company.
 * The project also contains the Login Manneger layer which is the responsible for the login 
-* inspection and all the other authentication logic.
+  inspection and all the other authentication logic.
 
 Website Structure:
 The site is composed of a default main page that includes links that routes to several locations.
