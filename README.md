@@ -1,10 +1,10 @@
 # Coupon Management System
 Full-Stack Project Based on Spring & React
 
-Coupon Management System: Final project by Evyatar Hale.
+Coupon Management System: Final project by Evyatar Hale and Yonatan Danan.
 
 This project was built throughout the course, we have put a lot of effort into it 
-by facing and solving many problems head on, which has taught us very much.
+by facing and solving many problems head-on, which has taught us very much.
 
 Instructions:
 
@@ -47,14 +47,12 @@ personal area of the Admin, there he will have a menu with the functions he can 
 creating companies, updating said companies, etc.
 
 In case you logged in as a company, the user will be routed to the personal area of the company, 
-there you will find a menu with a myriad of functions to use, such as creating new coupons.
+there you will find a menu with a several different functions to use, such as creating new coupons.
 
 In case you logged in as a customer, the user will be routed to the customer menu.
-Here, you can purchase coupons from any category.
+Here, you can purchase coupons from any category and view and filter the list of coupons you have purchased.
 
-Each of the users can go back to their personal area by pressing the client type button.
-
-The Admin details to login with:
+The Admin details to login with: 
 Email Address - admin@admin.com.
 Password - admin1234.
 
