@@ -12,7 +12,7 @@ Instructions:
    located in the Spring project under src/main/resources and enter your DB username & 
    password, it will create the entire scheme when running the project.
 
-2. Using the React CLI, run the command "npm install", it will download all the necessary packages that we use in our project.
+2. Using the React CLI, run the command "npm install", it will download all the necessary packages that we use in our project. <br />
    Also, run the commands as described below : <br />
    npm install react-router-dom@5 <br />
    npm install redux react-redux <br />
