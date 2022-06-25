@@ -13,11 +13,12 @@ Instructions:
    password, it will create the entire scheme when running the project.
 
 2. Using the React CLI, run the command "npm install", it will download all the necessary packages that we use in our project.
-   Also, run the commands as described below :
-   npm install react-router-dom@5
-   npm install redux react-redux
-   npm install @reduxjs/toolkit
-   npm audit fix
+   Also, run the commands as described below : <br />
+   npm install react-router-dom@5 <br />
+   npm install redux react-redux <br />
+   npm install @reduxjs/toolkit <br />
+   npm audit fix <br />
+   
    npm start
 
 3. The Spring server will run on port 8080.
