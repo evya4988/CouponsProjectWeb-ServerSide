@@ -17,7 +17,6 @@ Instructions:
    npm install react-router-dom@5 <br />
    npm install redux react-redux <br />
    npm install @reduxjs/toolkit <br />
-   npm audit fix <br />
    
    npm start
 
